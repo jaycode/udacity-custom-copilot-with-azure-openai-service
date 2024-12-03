@@ -1,0 +1,4 @@
+﻿input,compiledInput,expectedResponse,modelResponse,rating
+"How much do the TrailWalker Hiking Shoes cost?","How much do the TrailWalker Hiking Shoes cost?","The TrailWalker Hiking Shoes are priced at $110","The TrailWalker Hiking Shoes are priced at $110  <sup>1</sup> .","like"
+"How much do TrekMaster Camping Chair","How much do TrekMaster Camping Chair","The TrekMaster Camping Chair are priced at $50","The TrekMaster Camping Chair is priced at $50  <sup>1</sup> .","like"
+"What is the color of TrekMaster Camping Chair?","What is the color of TrekMaster Camping Chair?","The color of the TrekMaster Camping Chair is blue","The color of the TrekMaster Camping Chair is blue  <sup>1</sup> .","like"
